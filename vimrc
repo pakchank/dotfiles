@@ -21,8 +21,7 @@ call vundle#end()            " required
 filetype plugin indent on    " required
 
 
-
-set rtp+=/home/pakchank/anaconda3/lib/python3.7/site-packages/powerline/bindings/vim/
+set rtp+=/home/ubuntu/.local/lib/python3.7/site-packages/powerline/bindings/vim/
 set laststatus=2
 set showtabline=1
 set noshowmode
